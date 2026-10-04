@@ -3,7 +3,6 @@
 pragma solidity ^0.8.20;
 
 contract CalculadoraBasica {
-    // Variables d'estat
     uint256 public ultimResultat;
     uint256 public historialOperacions;
 
